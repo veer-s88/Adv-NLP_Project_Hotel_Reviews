@@ -1,2 +1,4 @@
 # NLP_Project_Hotel_Reviews
-This is a Natural Language Processing project to predict positive/negative hotel reviews
+This is a Natural Language Processing project to predict positive/negative hotel reviews. This project involved many steps including importing data, some brief exploratory data analysis to better understand the data, feature engineering to pull further features from the text data, cleaning data to remove volume of data the model would have to look at, tokenizing the data, vectorizing the data to convert the clean tokenized text into a numerical form such that Python can understand it and finally evluate multiple machine learning models to find which model is best for predicting positive/negative reviews. I evluated three different machine learning models: Random Forest Classifier, Gradient Boosting Classifier and Recurrent Neural Network, I measured the performance of these models on accuracy, precision and recall.
+
+This code was all written in Python and the dataset was downloaded from Kaggle.
